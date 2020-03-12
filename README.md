@@ -1,7 +1,9 @@
 ## TimeSeriesForecastingInR
 
-#It includes the following:
-	• Understanding statistical characteristics of time series data like stationarity, autocorrelation, and patterns like trend and seasonality.
-	• Baseline models such as naïve, mean, drift methods; and advanced models such as ARIMA, Exponential Smoothing, STL Decomposition and built-in neural network.
-	• What to look for and how to approach trend-only data, seasonal-only data, data that has lots of patterns Vs. data that has lots of randomness/noise.
-	• Visualizations of both data and model forecasts, along with interactive visualizations.
+Use the R scripts in the following order:
+1. Statiscal analysis 
+2. Basic models
+3. Advanced models
+4. Modelling trend-only data
+5. Modelling seasonal-only data
+6. Modelling data that has both trend and seasonality
