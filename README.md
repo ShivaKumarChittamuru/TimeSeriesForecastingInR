@@ -1,7 +1,7 @@
 ## TimeSeriesForecastingInR
 
 Use the R scripts in the following order:
-1. Statiscal analysis 
+1. Statistical analysis 
 2. Basic models
 3. Advanced models
 4. Modelling trend-only data
